@@ -63,3 +63,4 @@
 // build-dependencies: update
 // build-dependencies: when
 // build-dependencies: zip
+// build-dependencies: bufferingdebounce
